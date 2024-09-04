@@ -18,7 +18,7 @@ This project is a modern, responsive landing page created to showcase a new prod
 ## 4.Any additional launch instructions:
 To run this project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/wasik07/nothing_landing_page.git`<br>
+1. Clone the repository: `git clone https://github.com/MariiaSuper/creative_bakery_landing_page`<br>
 2. Navigate to the project directory: `cd nothing_landing_page`<br>
 3. Install the dependencies: `npm install`<br>
 4. Start the development server: `npm start`<br>
