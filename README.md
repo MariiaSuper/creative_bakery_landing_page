@@ -19,7 +19,7 @@ This project is a modern, responsive landing page created to showcase a new prod
 To run this project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/MariiaSuper/creative_bakery_landing_page`<br>
-2. Navigate to the project directory: `cd nothing_landing_page`<br>
+2. Navigate to the project directory: `cd creative_bakery_landing_page`<br>
 3. Install the dependencies: `npm install`<br>
 4. Start the development server: `npm start`<br>
 5. Open your browser and go to: `http://localhost:3000` to view and interact with the landing page.
